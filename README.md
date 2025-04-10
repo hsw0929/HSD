@@ -1,2 +1,2 @@
 # HSD
-Our code will be released as soon as possible.
+Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks
